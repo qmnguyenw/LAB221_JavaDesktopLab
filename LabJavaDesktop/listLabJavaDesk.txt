@@ -1,0 +1,140 @@
+J2.L.P0001
+Simple Graph Visualization Software 
+
+J2.L.P0002
+Mini Mart Management Software
+
+J2.L.P0003
+Hiding data in image using LSB (Least Significant Bit) Substitution
+
+J2.L.P0004
+Draw Function Graph 
+
+J2.L.P0005
+Happy Frog
+
+J2.L.P0006 + J2.S.P0009 + J2.S.P0014 + J2.S.P0125   
+My Text Editor (MTE)
+
+J2.L.P0007
+Text Chat System (Login, Socket)
+
+J2.L.P0021 + J2.S.P0012 + J2.S.P0013
+Number Puzzle Game
+
+J2.L.P0022 + J2.S.P0011 + J2.S.P0111
+Calculator
+
+J2.L.P0023
+MyFile Explorer
+
+J2.L.P0024
+Tic-tac-toe game
+
+J2.L.P0025
+Caro game
+
+J2.S.P0001
+Display and resize an image
+
+J2.S.P0002
+Networking – sending files
+
+J2.S.P0003
+Banking services – transferring money
+
+J2.S.P0004
+Pizza services – Ordering pizza
+
+J2.S.P0005   ????
+Synchronized the list of integer numbers
+
+J2.S.P0006
+Working with JList, JCombobox and images
+
+J2.S.P0007
+Font family chooser (combobox)
+
+J2.S.P0008 
+Convert Celsius to Fahrenheit
+
+J2.S.P0010
+Change background color of textarea.
+
+J2.S.P0015
+Simple menu
+
+J2.S.P0016
+Counter: Swing, thread and Java 2D
+
+J2.S.P0017
+Working with JTree
+
+J2.S.P0018
+Student Management - RMI
+
+J2.S.P0019
+Distributed Banking System- RMI
+
+J2.S.P0020
+File listing 
+
+J2.S.P0021
+Courses management
+
+J2.S.P0101
+Create a program display data in a tree form.
+
+J2.S.P0102
+Create a digital clock
+
+J2.S.P0103
+Adjust scrollbar position to change font size
+
+J2.S.P0104
+Browse by line in JTable
+
+J2.S.P0105 + J2.S.P0115
+Verify input data
+
+J2.S.P0106
+Transfer data between parent dialog and child dialog.
+
+J2.S.P0107
+Use progress bar in program
+
+J2.S.P0112
+Create calendar
+
+J2.S.P0113
+Manage book
+
+J2.S.P0114 + J2.S.P0116 + J2.S.P0117 + J2.S.P0119
+Create database Stock
+
+J2.S.P0118
+Display metadata using JDBC
+
+J2.S.P0120
+Edit tree node using combobox
+
+J2.S.P0121
+Draw Clock
+
+J2.S.P0122
+Colors Slider
+
+J2.S.P0123
+Drawing Shape program
+
+J2.S.P0124
+Simple paint program
+
+J2.S.P0126
+Colors choose text
+
+J2.S.P0127
+Position box color
+
+J2.S.P0128
+Choose flag
